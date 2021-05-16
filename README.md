@@ -18,7 +18,7 @@ Se debe tener instalado apidoc en el equipo de manera global, y ejecutar en la r
 de los siguientes comandos:
 
 - npm run start:doc
-- apidoc -i documentation/api -o documentation
+- apidoc -i documentation/api -o documentation/doc
 
 # Datos de Contacto
 
