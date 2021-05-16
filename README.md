@@ -1,4 +1,4 @@
-# Requerimientos del Proyeecto
+# Requerimientos del Proyecto
 
 - Ejecutar `npm i` para instalar las dependencias del proyecto.
 - La configuración de la base de datos se hace en el archivo `ormconfig.json`.
